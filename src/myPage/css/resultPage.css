@@ -18,7 +18,7 @@ body{
    }
    @media (max-width:600px){
     .graphGrid{
-        padding:2rem !important;    
+        padding:0rem !important;    
         grid-template-columns: 1fr !important;
        grid-template-rows: repeat(2,1fr) !important;
     }   

@@ -14,8 +14,12 @@ import {
 function App() {
   return (
     <div>
-    <Router>
+    
+    <h1>hello</h1> 
+    {
+    /* <Router>
       <Switch>
+        <></>
         <Route exact path="/Login">
           <Login/>
         </Route>
@@ -38,7 +42,7 @@ function App() {
           <EnterOtp/>
         </Route>
       </Switch>
-    </Router>
+    </Router> */}
     </div>
   );
 }
